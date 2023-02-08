@@ -3,3 +3,4 @@ git push
 git commit
 git branch
 git checkout
+git pull
